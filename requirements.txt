@@ -1,9 +1,9 @@
-dash==1.0.0
-gunicorn==19.9.0
-pillow==7.1.0
+dash
+gunicorn
+pillow
 scipy
 numpy
 pandas
-Flask==1.0.1
-dash-player==0.0.1
-pathlib==1.0.1
+Flask
+dash-player
+pathlib
