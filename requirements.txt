@@ -1,7 +1,7 @@
 dash==1.0.0
 gunicorn==19.9.0
 pillow==7.1.0
-scipy==1.2.1
+scipy
 numpy
 pandas
 Flask==1.0.1
