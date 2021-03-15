@@ -3,7 +3,7 @@ gunicorn==19.9.0
 pillow==7.1.0
 scipy==1.2.1
 numpy
-pandas==0.24.1
+pandas
 Flask==1.0.1
 dash-player==0.0.1
 pathlib==1.0.1
