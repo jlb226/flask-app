@@ -1,4 +1,7 @@
 dash
+dash-core-components
+dash-html-components
+dash-renderer
 gunicorn
 pillow
 scipy
@@ -7,3 +10,4 @@ pandas
 Flask
 dash-player
 pathlib
+plotly
